@@ -1,0 +1,144 @@
+{"frames": {
+
+"assasin.png":
+{
+	"frame": {"x":0,"y":0,"w":160,"h":220},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":220},
+	"sourceSize": {"w":160,"h":220}
+},
+"chback.png":
+{
+	"frame": {"x":160,"y":0,"w":160,"h":220},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":220},
+	"sourceSize": {"w":160,"h":220}
+},
+"evil.png":
+{
+	"frame": {"x":320,"y":0,"w":160,"h":220},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":220},
+	"sourceSize": {"w":160,"h":220}
+},
+"good.png":
+{
+	"frame": {"x":0,"y":220,"w":160,"h":220},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":220},
+	"sourceSize": {"w":160,"h":220}
+},
+"merlin.png":
+{
+	"frame": {"x":160,"y":220,"w":160,"h":220},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":220},
+	"sourceSize": {"w":160,"h":220}
+},
+"merlinMorgana.png":
+{
+	"frame": {"x":320,"y":220,"w":160,"h":220},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":220},
+	"sourceSize": {"w":160,"h":220}
+},
+"mordred.png":
+{
+	"frame": {"x":0,"y":440,"w":160,"h":220},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":220},
+	"sourceSize": {"w":160,"h":220}
+},
+"morgana.png":
+{
+	"frame": {"x":160,"y":440,"w":160,"h":220},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":220},
+	"sourceSize": {"w":160,"h":220}
+},
+"oberon.png":
+{
+	"frame": {"x":320,"y":440,"w":160,"h":220},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":220},
+	"sourceSize": {"w":160,"h":220}
+},
+"pa1.png":
+{
+	"frame": {"x":0,"y":660,"w":160,"h":220},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":220},
+	"sourceSize": {"w":160,"h":220}
+},
+"pa2.png":
+{
+	"frame": {"x":160,"y":660,"w":160,"h":220},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":220},
+	"sourceSize": {"w":160,"h":220}
+},
+"pa3.png":
+{
+	"frame": {"x":320,"y":660,"w":160,"h":220},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":220},
+	"sourceSize": {"w":160,"h":220}
+},
+"pa4.png":
+{
+	"frame": {"x":0,"y":880,"w":160,"h":220},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":220},
+	"sourceSize": {"w":160,"h":220}
+},
+"parsifal.png":
+{
+	"frame": {"x":160,"y":880,"w":160,"h":220},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":220},
+	"sourceSize": {"w":160,"h":220}
+},
+"pm1.png":
+{
+	"frame": {"x":320,"y":880,"w":160,"h":220},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":220},
+	"sourceSize": {"w":160,"h":220}
+},
+"pm2.png":
+{
+	"frame": {"x":0,"y":1100,"w":160,"h":220},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":220},
+	"sourceSize": {"w":160,"h":220}
+}},
+"animations": {
+	"pa": ["pa1.png","pa2.png","pa3.png","pa4.png"],
+	"pm": ["pm1.png","pm2.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "characters.png",
+	"format": "RGBA8888",
+	"size": {"w":480,"h":1320},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:acd6badb9fcc4252e87c5ea4f192e8a8:b19b76fdba11b660a134800c14eaa776:a5fe7db4b869eb0f3e0b2940b9577ea8$"
+}
+}

@@ -1,0 +1,106 @@
+{
+  "characters":{
+		"merlin": true,
+		"parsifal": true,
+		"assasin": true,
+		"morgana": true,
+		"mordred": true,
+		"oberon": true
+	},
+	"specials":{
+		"lakeMaiden": false
+	},
+	"observer":{
+		"fullVision": true
+	},
+	"map_config":{
+		"party_size":{
+			"map5":{
+				"mission1": 2,
+				"mission2": 3,
+				"mission3": 2,
+				"mission4": 3,
+				"mission5": 3
+			},
+			"map6":{
+				"mission1": 2,
+				"mission2": 3,
+				"mission3": 4,
+				"mission4": 3,
+				"mission5": 4
+			},
+			"map7":{
+				"mission1": 2,
+				"mission2": 3,
+				"mission3": 3,
+				"mission4": 4,
+				"mission5": 4
+			},
+			"map8":{
+				"mission1": 3,
+				"mission2": 4,
+				"mission3": 4,
+				"mission4": 5,
+				"mission5": 5
+			},
+			"map9":{
+				"mission1": 3,
+				"mission2": 4,
+				"mission3": 4,
+				"mission4": 5,
+				"mission5": 5
+			},
+			"map10":{
+				"mission1": 3,
+				"mission2": 4,
+				"mission3": 4,
+				"mission4": 5,
+				"mission5": 5
+			}
+		},
+		"fail_required":{
+			"map5":{
+				"mission1": 1,
+				"mission2": 1,
+				"mission3": 1,
+				"mission4": 1,
+				"mission5": 1
+			},
+			"map6":{
+				"mission1": 1,
+				"mission2": 1,
+				"mission3": 1,
+				"mission4": 1,
+				"mission5": 1
+			},
+			"map7":{
+				"mission1": 1,
+				"mission2": 1,
+				"mission3": 1,
+				"mission4": 2,
+				"mission5": 1
+			},
+			"map8":{
+				"mission1": 1,
+				"mission2": 1,
+				"mission3": 1,
+				"mission4": 2,
+				"mission5": 1
+				},
+			"map9":{
+				"mission1": 1,
+				"mission2": 1,
+				"mission3": 1,
+				"mission4": 2,
+				"mission5": 1
+			},
+			"map10":{
+				"mission1": 1,
+				"mission2": 1,
+				"mission3": 1,
+				"mission4": 2,
+				"mission5": 1
+			}
+		}
+	}
+}

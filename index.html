@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+		
+		<link rel="stylesheet" type="text/css" href="Style.css">
+		
+		<script src="Scripts/Lib/socket.io-2.3.1.slim.js"></script>
+		<script src="Scripts/Lib/jquery-3.5.1.min.js"></script>
+		<script src="Scripts/Lib/pixi.min.js"></script>
+		
+		<script src="Scripts/Main.js"></script>
+		<script src="Scripts/Net.js"></script>
+		<script src="Scripts/Game.js"></script> 		
+		<script src="Scripts/GameSetup.js"></script> 		
+    <script>
+      window.addEventListener("load", function () {
+				var main = new Main();
+      });
+    </script>
+</head>
+<body>
+	<div id = "menu">
+		<div id="logIn">
+			<form action="">
+				Podaj Nick </br></br>
+				<input id="inNick" autocomplete="off" /><button id="btSend">Send</button>
+			</form>
+		</div>
+		<div id="lobby">
+			Waiting for players...</br></br>
+			<button id="btStart">Start</button></br>
+			<ul id="lobbyPlayerList"></ul></br>
+		</div>
+		<div id="fullLobby"></div>
+	</div>
+	<div id="game"></div>
+</body>
+</html>
